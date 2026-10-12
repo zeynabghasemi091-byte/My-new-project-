@@ -1,0 +1,26 @@
+<!DOCTYPE html>  <html lang="en">  
+<head>  
+<meta charset="UTF-8">  
+<title>My First Project✨️</title>  
+</head>  
+<body>  
+<h1>Hello guys 🎀✨️</h1>  
+<h2>This is my first project!</h2>  
+<p>Actually this is my first practice in coding 🎮</p>  <a href="https://www.google.com">Google</a>
+
+<img src="https://www.w3schools.com/html/img_girl.jpg" alt="A girl">  <h2>نظرت راجع به این سایت چیه؟؟</h2>  
+<p>(جرات داری بد بگو ازش😔🔪)</p>  
+<ul>  
+<li>خیلی خوبه</li>  
+<li>حرف نداره</li>  
+<li>خوبه</li>  
+</ul>  
+</body>  
+echo "# My-new-project-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/zeynabghasemi091-byte/My-new-project-.git
+git push -u origin main
+</html>
